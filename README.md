@@ -2,7 +2,7 @@
 
 这是 Waifuu 的 Windows 朋友测试仓库。星咏リア是内置的默认角色。
 
-从 [Waifuu 1.6.7 Release](https://github.com/Nitrobenzene05/waifuu-test/releases/tag/v1.6.7) 下载 `Waifuu-1.6.7.zip`。
+从 [Waifuu 1.7.0 Release](https://github.com/Nitrobenzene05/waifuu-test/releases/tag/v1.7.0) 下载 `Waifuu-1.7.0.zip`。
 
 ## 安装
 
